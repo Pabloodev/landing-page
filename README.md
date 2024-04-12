@@ -3,7 +3,7 @@ Olá pessoal, me chamo Pablo Teixeira 😁⭐
 
 <p align="justify"> Projeto criado junto ao vídeo do Alexandre Saints, onde utilizei das TAGS para criar meu modelo. </p>
 
-Canal do Alexandre: <a hred="https://www.youtube.com/@AlexandreSaints">clique aqui</a>
+Canal do Alexandre: youtube.com/@AlexandreSaints
 
 
 Status do Projeto: ✔️ ⚠️ [Concluído]
