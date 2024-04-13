@@ -3,8 +3,7 @@ Olá pessoal, me chamo Pablo Teixeira 😁⭐
 
 <p align="justify"> Projeto criado junto ao vídeo do Alexandre Saints, onde utilizei das TAGS para criar meu modelo. </p>
 
-Canal do Alexandre: youtube.com/@AlexandreSaints
-
+Vídeo do Alexandre: https://www.youtube.com/watch?v=edDCEK5QWE8
 
 Status do Projeto: ✔️ ⚠️ [Concluído]
 
@@ -14,7 +13,7 @@ Status do Projeto: ✔️ ⚠️ [Concluído]
 
 Liberei a documentação para quem tiver interesse, o site está bem responsivo a todas as telas (Talvez só tenha que dar uma arrumada para responsividade a notebooks)
 <br><br>
-link do projeto uppado em github pages: 
+link do projeto uppado em github pages: https://pabloodev.github.io/landing-page/
 
 
 
